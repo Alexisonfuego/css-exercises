@@ -1,0 +1,21 @@
+.odd {
+    background-color: rgb(255, 182, 193);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(173, 216, 230);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* I could've added the .cool class to the fourth div to avoid duplicate code */
